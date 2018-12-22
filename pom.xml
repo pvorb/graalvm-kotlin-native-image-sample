@@ -125,4 +125,9 @@
         </license>
     </licenses>
 
+    <scm>
+        <connection>scm:git:ssh://git@github.com:pvorb/graalvm-kotlin-native-image-sample.git</connection>
+        <url>https://github.com/pvorb/graalvm-kotlin-native-image-sample.git</url>
+    </scm>
+
 </project>
